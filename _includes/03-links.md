@@ -1,1 +1,1 @@
-[my profile](https://github.com/bsa-coder)
+[BSA Profile](https://github.com/bsa-coder)
